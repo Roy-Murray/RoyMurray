@@ -15,4 +15,4 @@
 [<img align="left" alt="Roy | LinkedIn" width="22px" src="https://www.linkedin.com/in/roy-murray-19261430b/" />][linkedin]
 
 
-[linkedin]: [https://www.linkedin.com/in/roy-murray-19261430b/]
+[linkedin]: [https://www.linkedin.com/in/roy-murray]
