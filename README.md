@@ -9,3 +9,6 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/Roy-Murray/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Roy-Murray/azure-network-protocols)
+  - [Understanding and Implementing DNS Management Techniques in Microsoft Azure](https://github.com/Roy-Murray/DNS-Management
+Public)
+- <b>Microsoft Azure</b>
