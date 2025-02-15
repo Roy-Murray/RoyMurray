@@ -9,3 +9,4 @@
 
 - <b>Active Directory</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/Roy-Murray/configure-ad)
+  - [Deploying Active Directory](https://github.com/Roy-Murray/Deploying-Active-Directory)
